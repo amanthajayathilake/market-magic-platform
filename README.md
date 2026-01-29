@@ -1,4 +1,4 @@
-# Trading AI - AI-Powered Chart Analysis & Trading Insights
+# Market Magic Trading AI Platform - AI-Powered Chart Analysis & Trading Insights
 
 An intelligent, AI-powered trading analysis platform that helps traders of all experience levels make better trading decisions through chart pattern recognition, personalized recommendations, and market insights.
 
